@@ -22,5 +22,3 @@ Text that is not a quote\
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ]  - [ ] Add delight to the experience when all tasks are
 complete :tada:
-![screenshot of something](C:\Users\syeda\OneDrive\Desktop\SYED USMAN HASSAN SOE_1_11zon.jpg)
-
